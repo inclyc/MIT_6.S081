@@ -1,4 +1,4 @@
-# 搭建xv6环境
+# 启动xv6(easy)
 
 ## 前言
 
@@ -20,7 +20,7 @@
   `sNMMMMMMMMNNNmmmdddddmNMmhs/.      WM Theme: Breeze 微风
  /NMMMMMMMMNNNNmmmdddmNMNdso:`        Theme: Breeze Light [Plasma], Breeze [GTK2/3]
 +MMMMMMMNNNNNmmmmdmNMNdso/-           Icons: Fluent [Plasma], Fluent [GTK2/3]
-yMMNNNNNNNmmmmmNNMmhs+/-`             Terminal: vscode
+yMMNNNNNNNmmmmmNNMmhs+/-`             Terminal: Konsole
 /hMMNNNNNNNNMNdhs++/-`                CPU: 12th Gen Intel i7-12700 (20) @ 4.900GHz
 `/ohdmmddhys+++/:.`                   GPU: Intel AlderLake-S GT1
   `-//////:--.                        Memory: 36679MiB / 128619MiB
